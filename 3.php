@@ -3,8 +3,7 @@
  * Created by PhpStorm.
  * User: lwy
  * Date: 2020/7/27
-<<<<<<< HEAD
- * Time: 16:09
+ * Time: 15:59
  */
 
-echo 'it is 1.php file';
+echo '3.php';
