@@ -12,6 +12,7 @@ $serv = new Swoole\Server("127.0.0.1", 9501);
 //监听连接进入事件
 $serv->on('Connect', function ($serv, $fd) {
     echo "Client: Connect.\n";
+    echo "Client: Connect 1.\n";
 });
 
 //监听数据接收事件
